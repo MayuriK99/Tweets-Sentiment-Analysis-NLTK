@@ -1,1 +1,4 @@
 # Tweets-Sentiment-Analysis---NLTK
+This notebook focuses on understanding and classifying the sentiment of tweets. Leveraging the power of Natural Language Processing (NLP) and Long Short-Term Memory (LSTM), this project aims to accurately predict whether a given tweet expresses a positive or negative sentiment. By analyzing a dataset of tweets, the notebook demonstrates the workflow of data preprocessing, model training, evaluation, and visualization of results.
+The dataset contains Positive and Negative tweets which shows the person have depression or not. Label 0 indicates Negative [Not in depression] and label 1 indicates Positive [in depression]. By analysing the tweets, model will predict sentiment of person. The dataset contain 10314 tweets and preprocesssed the using the NLTK.
+[Data source - Kaggle]
